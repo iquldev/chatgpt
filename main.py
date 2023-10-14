@@ -3,7 +3,7 @@ from colorama import Fore
 from colorama import just_fix_windows_console
 just_fix_windows_console()
 
-# Введите API ключ, который находится на сайте platform.openai.com
+# Enter API key - platform.openai.com
 openai.api_key = "API_KEY"
 
 def chatgpt(prompt):
@@ -16,7 +16,7 @@ def chatgpt(prompt):
 
 if __name__ == "__main__":
     while True:
-        user_input = input(Fore.CYAN + "Введите запрос: ")
+        user_input = input(Fore.CYAN + "Enter response: ")
         if user_input.lower() in ["stop", "exit"]:
             break
 
