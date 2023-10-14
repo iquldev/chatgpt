@@ -13,4 +13,4 @@ Usage:
 python main.py
 ```
 ## Notes
-To use, you need to obtain an API key from [platform.openai.com](htttps://platform.openai.com). I do not promise that the program will work correctly, so if there is a problem, write to Issues
+To use, you need to obtain an API key from [platform.openai.com](https://platform.openai.com). I do not promise that the program will work correctly, so if there is a problem, write to Issues
